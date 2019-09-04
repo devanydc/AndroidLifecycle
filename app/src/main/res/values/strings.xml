@@ -1,3 +1,5 @@
 <resources>
-	<string name="app_name">Android Lifecycle</string>
+    <string name="app_name">Android Lifecycle</string>
+    <string name="hint_name">DevanyC</string>
+    <string name="submit">DevanyC</string>
 </resources>
